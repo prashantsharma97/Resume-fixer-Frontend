@@ -13,5 +13,12 @@ const App = () => (
         <ResumeForm />
     </div>
 );
+// const App = () => (
+//     <div className="app">
+//         <Header /> 
+
+//         <ResumeForm />
+//     </div>
+// );
 
 export default App;
