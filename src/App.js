@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import ResumeForm from './components/ResumeForm';
 // import ResumeForm from './components/ResumeForm';
+// import ResumeForm from './components/ResumeForm';
 import './App.css';
 // lots of changes 
 
