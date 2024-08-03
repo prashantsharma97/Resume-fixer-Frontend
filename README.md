@@ -1,4 +1,4 @@
-# resume-fixer-Frontend
+# resume-fixer-Frontend (OpenAi)
 using Open-AI for analysing resume and create a key point's strengths, weaknesses, suggestions
 
 # Getting Started with Create React App
